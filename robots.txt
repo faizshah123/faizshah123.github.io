@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://invoicecraftgen.netlify.app/sitemap.xml
+Sitemap: https://faizshah123.github.io/hookforge/sitemap.xml
